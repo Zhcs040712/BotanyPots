@@ -1,3 +1,5 @@
+// Force Gradle to use a compatible version of the repository API
+// 无需额外代码，主要是升级 wrapper
 // TODO remove buildscript block
 buildscript {
 
